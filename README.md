@@ -1,4 +1,4 @@
 # bioinformatics-practice-
-author: Abdul wasi 
+author: Abdul Wasi <br>
 contact: mianabdulwassay@gmai.com
 personal space for learning 
